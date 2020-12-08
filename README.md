@@ -1,1 +1,1 @@
-this project helps to preform sentimental analysis on imdb  adata.. and firstly perform artifical neural networks on a given dataset and then after performly recurrent neural networks for getting better accuracy
+this project helps to preform sentimental analysis on imdb  adata.. and firstly perform artifical neural networks on a given dataset and then after performly recurrent neural networks for getting better accuracy with 90%
